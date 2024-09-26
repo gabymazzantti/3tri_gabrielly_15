@@ -5,6 +5,7 @@ url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12
     --primary-color: #DDDDDD;
     --secondary-color: #F05454;
     --font: "Nunito Sans", sans-serif;
+}
     body {
         background-color: var(--bg-color);
         color: var(--primary-color);
